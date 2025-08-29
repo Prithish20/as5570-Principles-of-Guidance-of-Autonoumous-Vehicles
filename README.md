@@ -1,1 +1,1 @@
-This is a repo for PGAV course
+This is a repo for POGAV course
